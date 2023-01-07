@@ -1,1 +1,1 @@
-print("Hello World" *9)
+print("Hello World")
